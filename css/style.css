@@ -18,6 +18,7 @@ ul {
 
 li {
     float: left;
+    margin-left: 2rem;
 }
  
 a {
@@ -38,6 +39,11 @@ body{
 section p{
     margin: 1rem 25rem;
 
+}
+
+p a{
+    color: #353b49;
+    text-decoration: none;
 }
 
 h2, h3, h4{
